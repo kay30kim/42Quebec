@@ -14,7 +14,6 @@ int ft_iterative_factorial(int nb)
 	}
 	return (num);
 }
-
 #include <stdio.h>
 int	main(void)
 {
