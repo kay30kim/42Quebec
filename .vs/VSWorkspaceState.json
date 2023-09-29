@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C05",
-    "\\C05\\ex01",
-    "\\C05\\ex02",
     "\\C05\\ex03",
     "\\C05\\ex04",
     "\\C05\\ex05",
     "\\C05\\ex06",
     "\\C05\\ex07",
-    "\\C05\\ex08"
+    "\\C05\\ex08",
+    "\\C07",
+    "\\C07\\ex00",
+    "\\C07\\ex01"
   ],
-  "SelectedNode": "\\C05\\ex08\\ft_ten_queens_puzzle.c",
+  "SelectedNode": "\\C07\\ex01\\ft_range.c",
   "PreviewInSolutionExplorer": false
 }
