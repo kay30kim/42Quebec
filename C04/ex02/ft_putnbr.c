@@ -6,7 +6,7 @@
 /*   By: kyung-ki <kyung-ki@student.42quebec>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/24 12:07:30 by kyung-ki          #+#    #+#             */
-/*   Updated: 2023/09/24 12:07:32 by kyung-ki         ###   ########.fr       */
+/*   Updated: 2023/09/25 18:22:34 by kyung-ki         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,11 +34,11 @@ void	ft_putnbr(int nb)
 	}
 	else
 	{
-		c = nb + 48;
+		c = nb + '0';
 		write(1, &c, 1);
 	}
 }
-/*#include <stdio.h>
+#include <stdio.h>
 int main(){
 	ft_putnbr(1243);
 	printf("\n");
@@ -53,4 +53,4 @@ int main(){
 	ft_putnbr(-2147483648);
 	printf("\n");
 	return 0;
-}*/
+}
